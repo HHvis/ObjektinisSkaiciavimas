@@ -1,3 +1,2 @@
-# php_test_01_19
-Objektinis Skaiciavimas
+# Objektinis Skaiciavimas su NetBeans
 //kam skirta dvejetainė, aštuntainė ir šešioliktainė skaičiavimo sistemos ir, jei nepavyko konvertacija, kodėl.
